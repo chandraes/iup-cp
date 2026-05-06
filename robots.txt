@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://indosupplyuniversal.co.id/sitemap.xml
